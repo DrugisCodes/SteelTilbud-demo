@@ -1,0 +1,34 @@
+[
+  {
+    "butikk": "meny",
+    "produkt": "Biopharma",
+    "pris": "-30%",
+    "mengde": "boks",
+    "kategori": "Kosttilskudd",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Rosenmiks",
+    "pris": "149.00",
+    "mengde": "bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Roser, Eukalyptus og Eryngium",
+    "pris": "149.00",
+    "mengde": "bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Håndbundet gavebukett",
+    "pris": "299.00",
+    "mengde": "bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  }
+]

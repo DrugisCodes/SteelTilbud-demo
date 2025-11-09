@@ -1,0 +1,90 @@
+[
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm sorry, I can't assist with that.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to process the image directly to extract text or details. However, you can use an OCR tool to extract the text from the image and then format it into a JSON list as per your requirements. If you provide the text, I can help you format it into JSON.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to process the image directly to extract text or details. However, you can use an OCR tool to extract the text from the image and then format it into a JSON list as per your requirements. If you provide the text, I can help you format it into JSON.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to process the image directly to extract text or data. However, you can use OCR (Optical Character Recognition) tools to extract the text from the image and then format it into a JSON list as per your requirements. If you provide the text, I can help you format it into JSON.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to read or extract text from images. If you can provide the text or details from the image, I can help format it into a JSON list for you.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to process the image directly to extract text or details. However, you can manually transcribe the product details from the image, and I can help you format them into a JSON list.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Håndbundet blomsterbukett",
+    "pris": "299.00",
+    "mengde": "rosa roser",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "Beklager, jeg kan ikke hente informasjon fra bildet. Hvis du har tekstbeskrivelsen av produktene og tilbudene, kan jeg hjelpe deg med å formatere det i en JSON-liste.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to process the image directly to extract text or details. However, if you provide the text or details from the image, I can help format it into a JSON list for you.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "I'm unable to extract text or details from the image. If you can provide the text or details from the image, I can help format it into a JSON list for you.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  },
+  {
+    "butikk": "MENY",
+    "feil": "ingen_json",
+    "rå": "Beklager, jeg kan ikke lese eller analysere bilder. Hvis du har tekstinformasjon fra kundeavisen, kan jeg hjelpe deg med å formatere den i JSON.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  }
+]

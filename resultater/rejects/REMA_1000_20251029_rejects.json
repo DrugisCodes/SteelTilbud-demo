@@ -1,0 +1,98 @@
+[
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Lambi Toalett- og Kjøkkenrull",
+    "pris": "metervare",
+    "mengde": "40 ruller",
+    "kategori": "Husholdning",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Potet",
+    "pris": "bama-pris",
+    "mengde": "1 kg",
+    "kategori": "Frukt/Grønt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Røde Druer",
+    "pris": "bama-pris",
+    "mengde": "1 pk",
+    "kategori": "Frukt og Grønt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Norske Epler",
+    "pris": "bama-pris",
+    "mengde": "1 kg",
+    "kategori": "Frukt/Grønt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Mango Umoden",
+    "pris": "bama-pris",
+    "mengde": "1 stk",
+    "kategori": "Frukt og Grønt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Aubergine",
+    "pris": "bama-pris",
+    "mengde": "per kg",
+    "kategori": "Grønnsaker",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Sitron",
+    "pris": "bama-pris",
+    "mengde": "per kg",
+    "kategori": "Frukt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Wok Mix",
+    "pris": "bama-pris",
+    "mengde": "per stk",
+    "kategori": "Grønnsaker",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Råkostsalat",
+    "pris": "bama-pris",
+    "mengde": "per stk",
+    "kategori": "Meieri",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "25% Bonus på 8 utvalgte frukt- og grøntvarer",
+    "pris": "bonus",
+    "mengde": "8 produkter",
+    "kategori": "Kampanje",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Santa Maria Produkter",
+    "pris": "30% rabatt",
+    "mengde": "Uspesifisert",
+    "kategori": "Diverse",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "REMA_1000",
+    "feil": "ingen_json",
+    "rå": "Beklager, jeg kan ikke lese innholdet i bildet. Hvis du har tekstinformasjon fra kundeavisen, kan jeg hjelpe deg med å formatere det i en JSON-liste.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  }
+]

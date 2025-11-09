@@ -1,0 +1,527 @@
+[
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Laksefilet Naturell",
+    "pris": "79.00",
+    "mengde": "400 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grandiosa Full Pakke",
+    "pris": "39.90",
+    "mengde": "585 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Middagsris",
+    "pris": "39.90",
+    "mengde": "1 kg",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Gulrot",
+    "pris": "24.90",
+    "mengde": "1 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Godehav Laksefilet",
+    "pris": "79.90",
+    "mengde": "4 stk",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Babyspinat",
+    "pris": "24.90",
+    "mengde": "65 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Wokgrønnsaker Sweet Chili",
+    "pris": "23.90",
+    "mengde": "500 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Potetstappe",
+    "pris": "44.90",
+    "mengde": "4 porsjoner",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Brokkoli",
+    "pris": "39.90",
+    "mengde": "1 stk",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grønn Pesto",
+    "pris": "20.50",
+    "mengde": "130 g",
+    "kategori": "Tilbehør"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Sitron",
+    "pris": "11.98",
+    "mengde": "2 stk",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Tagliatelle",
+    "pris": "25.90",
+    "mengde": "500 g",
+    "kategori": "Pasta"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Matfløte",
+    "pris": "23.90",
+    "mengde": "3,3 dl",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grønn Pesto",
+    "pris": "20.90",
+    "mengde": "185 g",
+    "kategori": "Sauser"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Rosenkål",
+    "pris": "49.90",
+    "mengde": "400 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Sandefjordsaus",
+    "pris": "24.90",
+    "mengde": "300 g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "All Yoghurt fra Tine",
+    "pris": "30% rabatt",
+    "mengde": "90-1200 g/ml",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Santa Maria Naan Bread",
+    "pris": "30% rabatt",
+    "mengde": "2 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kylling lårfilet",
+    "pris": "79.90",
+    "mengde": "400 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kylling lårfilet",
+    "pris": "99.00",
+    "mengde": "600 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kylling kjøttboller",
+    "pris": "99.00",
+    "mengde": "2 x 600 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Asia fiskeburger",
+    "pris": "29.90",
+    "mengde": "220 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Bestemors fiskekaker",
+    "pris": "29.90",
+    "mengde": "300 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grateng Familiens",
+    "pris": "49.90",
+    "mengde": "1000 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Laks Lenke U/Skinn",
+    "pris": "79.00",
+    "mengde": "600 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Big Beef Burger",
+    "pris": "54.90",
+    "mengde": "360 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kjøtt- og Grønnsaksdeig",
+    "pris": "39.90",
+    "mengde": "400 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grovt Hverdagsbrød",
+    "pris": "19.90",
+    "mengde": "1 stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Utvalgte Knekkebrød",
+    "pris": "24.90",
+    "mengde": "1 pk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grilstad",
+    "pris": "49.90",
+    "mengde": "2x75 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grilstad",
+    "pris": "29.90",
+    "mengde": "2x75 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grovbrød",
+    "pris": "27.90",
+    "mengde": "750 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Jubelsalami",
+    "pris": "47.90",
+    "mengde": "130 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Din Stund",
+    "pris": "27.90",
+    "mengde": "200 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Ternet Bacon",
+    "pris": "39.90",
+    "mengde": "250 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kokt Skinke XXL",
+    "pris": "39.90",
+    "mengde": "220 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "RÅ Kaldpresset Juice",
+    "pris": "49.90",
+    "mengde": "1 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Hvetemel",
+    "pris": "19.90",
+    "mengde": "2 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Sukker",
+    "pris": "34.90",
+    "mengde": "1 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Marsipan-/sjokoladekake",
+    "pris": "169.00",
+    "mengde": "1 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Toalettpapir",
+    "pris": "169.90",
+    "mengde": "20 ruller",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Tricolor paprika",
+    "pris": "19.90",
+    "mengde": "3 stk",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Pærer",
+    "pris": "19.90",
+    "mengde": "pr. kg",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Tynnribbe",
+    "pris": "129.90",
+    "mengde": "pr kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Urøkt Pinnekjøtt",
+    "pris": "289.90",
+    "mengde": "pr kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Pepperkaker",
+    "pris": "24.90",
+    "mengde": "300 g",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Julebrus Utsukker",
+    "pris": "59.90",
+    "mengde": "6x1,5 L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Marsipanbrød",
+    "pris": "24.90",
+    "mengde": "100 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Julekuler",
+    "pris": "24.90",
+    "mengde": "132 g",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Skumnisser",
+    "pris": "14.90",
+    "mengde": "90 g",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grans Julebrus u/sukker",
+    "pris": "12.60",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Julebrunost",
+    "pris": "12.90",
+    "mengde": "500g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Julebrunost skivet",
+    "pris": "26.90",
+    "mengde": "130g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Plukk og miks",
+    "pris": "3 for 2",
+    "mengde": "100-500g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "KiMs chips",
+    "pris": "24.90",
+    "mengde": "pr. stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Kims Chips",
+    "pris": "27.90",
+    "mengde": "200 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Mjølkeruta Storplate",
+    "pris": "39.90",
+    "mengde": "200 g",
+    "kategori": "Sjokolade"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Seigmenn",
+    "pris": "14.90",
+    "mengde": "100 g",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Laksefilet naturell",
+    "pris": "79",
+    "mengde": "400g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Woksaus Sweet Chili",
+    "pris": "23.90",
+    "mengde": "250 ml",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Fiskekaker",
+    "pris": "49.90",
+    "mengde": "800 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Fiskekaker",
+    "pris": "79.00",
+    "mengde": "1 kg",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grateng Familiens",
+    "pris": "64.90",
+    "mengde": "1000 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Laks Lenke U/skinn",
+    "pris": "54.90",
+    "mengde": "500 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grilstad Jubelsalami",
+    "pris": "49.90",
+    "mengde": "1 stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Dine Yoghurt",
+    "pris": "29.90",
+    "mengde": "1 stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Grovbrød",
+    "pris": "39.90",
+    "mengde": "2 stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Jubelsalami",
+    "pris": "39.90",
+    "mengde": "100 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Din Stund",
+    "pris": "39.90",
+    "mengde": "250 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Terning Bacon",
+    "pris": "39.90",
+    "mengde": "250 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Siktet Hvetemel",
+    "pris": "19.90",
+    "mengde": "2 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Dove Såpe",
+    "pris": "34.90",
+    "mengde": "4 stk",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Røkt Laks XXL",
+    "pris": "39.90",
+    "mengde": "300 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Sukker",
+    "pris": "13.45",
+    "mengde": "1 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "REMA_1000",
+    "produkt": "Marsipan-sjokoladekake",
+    "pris": "79.00",
+    "mengde": "700-900 g",
+    "kategori": "Snacks"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Gilde Grillpølser",
+    "pris": "50",
+    "mengde": "2 stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Regal Hvetemel",
+    "pris": "80",
+    "mengde": "4 stk",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Freia Sjokoladeplater",
+    "pris": "40",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Maarud Godt&Blått",
+    "pris": "50",
+    "mengde": "3 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Norske Gulrøtter",
+    "pris": "19.90",
+    "mengde": "1 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Grandiosa Pizza",
+    "pris": "50%",
+    "mengde": "Alle varianter",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Hatting Pølsebrød",
+    "pris": "10",
+    "mengde": "6 stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Tine Yoghurt",
+    "pris": "10",
+    "mengde": "150 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Mills Potetmos",
+    "pris": "10",
+    "mengde": "90 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Masa Sashimi",
+    "pris": "10",
+    "mengde": "100 g",
+    "kategori": "Sjømat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Sunniva Eplejuice",
+    "pris": "10",
+    "mengde": "1 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Fruktmüsli",
+    "pris": "10",
+    "mengde": "375 g",
+    "kategori": "Frokostblanding"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Colgate 2x75g Tannkrem",
+    "pris": "10",
+    "mengde": "2x75 g",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Vann Uten Kullsyre",
+    "pris": "10",
+    "mengde": "1,5 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Kvikk Lunsj Sjokolade",
+    "pris": "10",
+    "mengde": "47 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Zinklarian Bakepapir",
+    "pris": "10",
+    "mengde": "15 stk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Godteri",
+    "pris": "30",
+    "mengde": "500 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Mills Pålegg",
+    "pris": "30",
+    "mengde": "200 g",
+    "kategori": "Pålegg"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Pizzabunn Original",
+    "pris": "20",
+    "mengde": "1 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Cornflakes og Poteter",
+    "pris": "30",
+    "mengde": "1 pakke",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Skivet Laks",
+    "pris": "20",
+    "mengde": "1 pakke",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Dave & Jon's Dadler",
+    "pris": "40",
+    "mengde": "1 pakke",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Jordan Oppvaskbørste",
+    "pris": "30",
+    "mengde": "1 stk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Zalo Oppvask- og Kjøkkenspray",
+    "pris": "40",
+    "mengde": "1 flaske",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Milo Oppvask",
+    "pris": "60",
+    "mengde": "1 flaske",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Hvetetortilla",
+    "pris": "50",
+    "mengde": "1 pakke",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Gilde Skinnfri Kjøttpølse",
+    "pris": "40",
+    "mengde": "1 pakke",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Tine Revet Original",
+    "pris": "50",
+    "mengde": "1 pakke",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Olivero Soft Flora",
+    "pris": "40",
+    "mengde": "1 pakke",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Fersk Laks",
+    "pris": "100",
+    "mengde": "1 pakke",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Softlan Skyllemiddel",
+    "pris": "35",
+    "mengde": "1 flaske",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Findus Fiskegrateng",
+    "pris": "60",
+    "mengde": "1 pakke",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Softlan Tøymykner",
+    "pris": "30",
+    "mengde": "750 ml",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Lerøy Familiefisk Fiskegrateng",
+    "pris": "60",
+    "mengde": "500 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Polarbrød Havre",
+    "pris": "30",
+    "mengde": "8 stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Freia Melkehjerter",
+    "pris": "60",
+    "mengde": "130 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Stabburet Leverpostei",
+    "pris": "20",
+    "mengde": "100 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Snapple Juice",
+    "pris": "80",
+    "mengde": "2 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Fjordland Risgrøt",
+    "pris": "50",
+    "mengde": "2 stk",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Biola",
+    "pris": "60",
+    "mengde": "4 stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Passerte Tomater",
+    "pris": "20",
+    "mengde": "390 g",
+    "kategori": "Hermetikk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Pringles",
+    "pris": "50",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Nugatti Nøttepålegg",
+    "pris": "60",
+    "mengde": "500 g",
+    "kategori": "Pålegg"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Idun Ketchup",
+    "pris": "50",
+    "mengde": "2 stk",
+    "kategori": "Krydder/Saus"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Dolmio",
+    "pris": "60",
+    "mengde": "2 stk",
+    "kategori": "Sauser"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Ricola",
+    "pris": "60",
+    "mengde": "2 pk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Bacon uten Svor",
+    "pris": "50",
+    "mengde": "2 pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Store Fine Rundstykker",
+    "pris": "20",
+    "mengde": "2 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Skolebrød/Boller",
+    "pris": "30",
+    "mengde": "2 stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Donuts med Nonstop",
+    "pris": "20",
+    "mengde": "2 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Wienerbrød",
+    "pris": "30",
+    "mengde": "2 stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Battery/Capri-Sun",
+    "pris": "2 for 60",
+    "mengde": "2 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Sørlandschips",
+    "pris": "2 for 60",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Polly Peanøtter",
+    "pris": "2 for 60",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Pågen Gifflar",
+    "pris": "2 for 60",
+    "mengde": "2 stk",
+    "kategori": "Bakverk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Freia Posemix",
+    "pris": "3 for 80",
+    "mengde": "3 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Snickers/Twix",
+    "pris": "2 for 40",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Fun Light",
+    "pris": "2 for 60",
+    "mengde": "2 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Apetina Original",
+    "pris": "2 for 70",
+    "mengde": "2 stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Gulrøtter",
+    "pris": "19.90",
+    "mengde": "1 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Wokmiks Red Curry/Teriyaki",
+    "pris": "35",
+    "mengde": "1 stk",
+    "kategori": "Ferdigmat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Gulerøtter",
+    "pris": "30.-",
+    "mengde": "1 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Røde Druer",
+    "pris": "30.-",
+    "mengde": "500 g",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Ruccolasalat",
+    "pris": "20.-",
+    "mengde": "65 g",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Appelsiner",
+    "pris": "30.-",
+    "mengde": "1 kg",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Roser",
+    "pris": "84.90",
+    "mengde": "15 stk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Fersk Kake",
+    "pris": "100.-",
+    "mengde": "1 stk",
+    "kategori": "Bakverk"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Wokmiks Red Curry",
+    "pris": "35",
+    "mengde": "450g",
+    "kategori": "Ferdigmat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Coop Wokmiks Teriyaki",
+    "pris": "35",
+    "mengde": "450g",
+    "kategori": "Ferdigmat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Libero bleier",
+    "pris": "-50%",
+    "mengde": "alle varianter",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Big One Pizza",
+    "pris": "40.-",
+    "mengde": "stk",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Nidar Smågodt",
+    "pris": "12.-",
+    "mengde": "pr hg",
+    "kategori": "Godteri"
+  }
+]

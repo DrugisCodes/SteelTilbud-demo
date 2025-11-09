@@ -1,0 +1,303 @@
+[
+  {
+    "butikk": "spar",
+    "produkt": "Nygrillet kylling",
+    "pris": "79.90",
+    "mengde": "1000–1349g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Norske epler",
+    "pris": "24.90",
+    "mengde": "pr. kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Norsk gulrot",
+    "pris": "24.90",
+    "mengde": "750g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Små tomater",
+    "pris": "34.90",
+    "mengde": "500g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Paprika fargemiks",
+    "pris": "24.90",
+    "mengde": "3-pk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Sunn Snækk",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Sukkermeloner hele",
+    "pris": "34.90",
+    "mengde": "pr. kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Blåbær",
+    "pris": "59.90",
+    "mengde": "400 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Druer Søte & Sprø",
+    "pris": "34.90",
+    "mengde": "500 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Rå chorizoboller",
+    "pris": "59.90",
+    "mengde": "360 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Ørret 4-pk.",
+    "pris": "99.00",
+    "mengde": "400 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Lerøy Ørret 4-pk.",
+    "pris": "99.00",
+    "mengde": "400g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Grilstad Hamburger",
+    "pris": "139.00",
+    "mengde": "10x100g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Lofoten Fiskekaker/hjertekaker",
+    "pris": "79.90",
+    "mengde": "450-550g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Findus ferdigretter",
+    "pris": "49.90",
+    "mengde": "600g",
+    "kategori": "Ferdigretter"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Elgkarbonader m/potetmos & rosenkål",
+    "pris": "159.80/kg",
+    "mengde": "500g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Våre Groveste Kornbrød",
+    "pris": "29.90",
+    "mengde": "750g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Fransk Landbrød",
+    "pris": "29.90",
+    "mengde": "550g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Fransk Landbrød",
+    "pris": "49.90",
+    "mengde": "550g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Skyr Q, luftig, bringebær/sitron",
+    "pris": "14.90",
+    "mengde": "130g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Lofoten Makrell",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Hermetikk"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Wasa sandwich",
+    "pris": "8.90",
+    "mengde": "30–37g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Maiskaker Friggs, ost",
+    "pris": "29.90",
+    "mengde": "125g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Friggs Maiskaker Ost",
+    "pris": "29.90",
+    "mengde": "125g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Romkake",
+    "pris": "249.00",
+    "mengde": "900g",
+    "kategori": "Bakevarer"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Sjokoladekake",
+    "pris": "129.00",
+    "mengde": "ikke oppgitt",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Marsipankake",
+    "pris": "329.00",
+    "mengde": "900g",
+    "kategori": "Kaker"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Sjokoladekake",
+    "pris": "179.00",
+    "mengde": "425g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Pringles",
+    "pris": "24.90",
+    "mengde": "165g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Munkholm Mocktail Sparkling Peach",
+    "pris": "12.90",
+    "mengde": "0.33L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "L'Oréal Men Expert",
+    "pris": "34.90",
+    "mengde": "50-300ml",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Plumbo Heavy Gel/pulver",
+    "pris": "64.90",
+    "mengde": "550-630g",
+    "kategori": "Rengjøring"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Bendit/Cevita smoothie",
+    "pris": "3 for 2",
+    "mengde": "250 ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Extra tyggegummi",
+    "pris": "3 for 2",
+    "mengde": "14 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Klemmeposer/mellommåltid",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Barnemat"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Servietter",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Barebells",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Starbucks iskaffe",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Fever-Tree",
+    "pris": "3 for 2",
+    "mengde": "0,5 l",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Kaffekapsler",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Kaffe"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Julestjerne",
+    "pris": "34.90",
+    "mengde": "11 cm",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Azalea",
+    "pris": "79.90",
+    "mengde": "12 cm",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "spar",
+    "produkt": "Azalea hvit",
+    "pris": "79.90",
+    "mengde": "12 cm",
+    "kategori": "Blomster"
+  }
+]

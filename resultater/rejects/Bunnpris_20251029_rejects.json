@@ -1,0 +1,74 @@
+[
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Ekstra Store Rundstykker",
+    "pris": "partivare",
+    "mengde": "1 pose",
+    "kategori": "Bakervarer",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Smarties Mini Nestle",
+    "pris": "39",
+    "mengde": "Pakke",
+    "kategori": "Søtsaker",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Peanøtter Original XXL",
+    "pris": "49",
+    "mengde": "Pakke",
+    "kategori": "Snacks",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Yummy Gummi Sur & Søt og Sukkerdråpe",
+    "pris": "30%",
+    "mengde": "Rabatt",
+    "kategori": "Søtsaker",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Tyrkisk Peber Original og Hot & Sour",
+    "pris": "40%",
+    "mengde": "Rabatt",
+    "kategori": "Søtsaker",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Hennig Olsen Kremis & Sjokolade, Sjokokrønsj og Sjokodrøm Toppris",
+    "pris": "30%",
+    "mengde": "Rabatt",
+    "kategori": "Snacks",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Lambi Classic Toalettpapir",
+    "pris": "big deal",
+    "mengde": "12pk",
+    "kategori": "Husholdning",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "All frukt",
+    "pris": "-30%",
+    "mengde": "N/A",
+    "kategori": "Frukt",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Bunnpris",
+    "feil": "ingen_json",
+    "rå": "I'm unable to view or analyze the content of the image you uploaded. If you can provide the text details from the Bunnpris advertisement, I can help you format it into a JSON list.",
+    "pris": "",
+    "kategori": "Annet",
+    "reject_reason": "missing_or_short_product"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "butikk": "MENY",
+    "produkt": "Glemt & Frisk salat mix",
+    "pris": "20",
+    "mengde": "150-200g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Bananer",
+    "pris": "19",
+    "mengde": "per kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Blåbær",
+    "pris": "20",
+    "mengde": "125g",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Guacamole",
+    "pris": "40",
+    "mengde": "2x200g",
+    "kategori": "Dressing"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Kuttet frisk storfe biffer",
+    "pris": "40",
+    "mengde": "per kg",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Taco-produkter",
+    "pris": "40% trumf-bonus",
+    "mengde": "stort utvalg",
+    "kategori": "Taco"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Roser",
+    "pris": "99.00",
+    "mengde": "10pk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Tulipanmiks",
+    "pris": "149.00",
+    "mengde": "20pk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "MENY",
+    "produkt": "Roser, Chrysanthemum og Hyperikum",
+    "pris": "149.00",
+    "mengde": "7 dagers holdbarhetsgaranti",
+    "kategori": "Blomster"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Norvegia Original",
+    "pris": "99",
+    "mengde": "per kg",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Kvikk Lunsj",
+    "pris": "59",
+    "mengde": "6-pakning",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sprite/Fanta/Urge",
+    "pris": "3 for 20",
+    "mengde": "0.33L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Løvsteik",
+    "pris": "99",
+    "mengde": "Big Pack",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Utvalgte Mel Sorter Regal",
+    "pris": "4 for 50",
+    "mengde": "1 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sukkerfri Saft",
+    "pris": "59",
+    "mengde": "8x",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Go' Morgen Yoghurt Vanilje og Skogsbær",
+    "pris": "55",
+    "mengde": "8x",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Epler",
+    "pris": "25",
+    "mengde": "per kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "All Frukt",
+    "pris": "-30%",
+    "mengde": "2/25",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Helgekuppet",
+    "pris": "9.90",
+    "mengde": "per hg",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Epler",
+    "pris": "1 kg",
+    "mengde": "1 kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Frukt-onsdag",
+    "pris": "-30%",
+    "mengde": "All frukt",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Fjordland Risgrøt og Rømmegrøt",
+    "pris": "39",
+    "mengde": "stk",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Grilstad Kylling Nuggets",
+    "pris": "79",
+    "mengde": "600g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Wienerpølser",
+    "pris": "59",
+    "mengde": "1kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Gilde Skåret Skinke",
+    "pris": "39",
+    "mengde": "stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Gilde Storfeburger",
+    "pris": "49",
+    "mengde": "2pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Pasta Carbonara, Bolognese, Tikka Masala, Thai Chicken og Kylling",
+    "pris": "30%",
+    "mengde": "stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Woksaus Teriyaki, Oyster & Spring Onion og Hoi Sin",
+    "pris": "30%",
+    "mengde": "stk",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Hoff Opphøgde Poteter",
+    "pris": "45",
+    "mengde": "800 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Revet Økonomipakke",
+    "pris": "45",
+    "mengde": "370 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Utvalgte Peppes produkter",
+    "pris": "30% rabatt",
+    "mengde": "Flere varianter",
+    "kategori": "Frysevarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Bacon Original",
+    "pris": "30",
+    "mengde": "150 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Laks Varmrøkt",
+    "pris": "65",
+    "mengde": "200g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Grytekjøtt Storfe",
+    "pris": "60",
+    "mengde": "300g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Storfe Strimler",
+    "pris": "70",
+    "mengde": "400g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Coca-Cola Uten Sukker",
+    "pris": "89",
+    "mengde": "1.5L x 6",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Utvalgte Lofoten fiskeprodukter",
+    "pris": "40% rabatt",
+    "mengde": "Fra 100g pr. pk.",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Melange Margarin",
+    "pris": "59",
+    "mengde": "1000g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Lier Surdeigsstykke",
+    "pris": "29",
+    "mengde": "5 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Kokt Skinke Ekte",
+    "pris": "59",
+    "mengde": "200g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Hamburgerrygg",
+    "pris": "59",
+    "mengde": "110g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Mills Italiensk Salat",
+    "pris": "35",
+    "mengde": "165g",
+    "kategori": "Pålegg"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Gulost Original Skivet",
+    "pris": "69",
+    "mengde": "2 x 150g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Yoplait Kvarg Rips/Vanilje & Sitron",
+    "pris": "25",
+    "mengde": "175 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Yoplait Safari Ape",
+    "pris": "39",
+    "mengde": "8x125 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Nesquik Frokostblanding",
+    "pris": "40",
+    "mengde": "325 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sicilia Sitron- og Limesaft",
+    "pris": "15",
+    "mengde": "250 ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Tine Sjokomelk",
+    "pris": "25",
+    "mengde": "1 liter",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Nescafé Cappuccino",
+    "pris": "79",
+    "mengde": "6x16 g",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Norvegia Ost",
+    "pris": "99",
+    "mengde": "2x750 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Mellomgrovt Brød",
+    "pris": "30",
+    "mengde": "650 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Ryvita Rug Knekkebrød",
+    "pris": "35",
+    "mengde": "1 pakke",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Utvalgte glutenfrie Schär produkter",
+    "pris": "-30%",
+    "mengde": "1 pakke",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Gourmetrundstykke, grove frokostbrød, havrestykke, ostebrød og hindstykke grovt",
+    "pris": "25",
+    "mengde": "3 for",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Donuts",
+    "pris": "25",
+    "mengde": "2 for",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Berlinerboller",
+    "pris": "25",
+    "mengde": "2 for",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Marsipankake rund",
+    "pris": "179",
+    "mengde": "1 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Plukk & Miks Boller",
+    "pris": "25",
+    "mengde": "3 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sørlandschips Potetgull Rifla",
+    "pris": "49",
+    "mengde": "2 for",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Osteinger Cheddar & Chili og Ostesprø XL Cheddar",
+    "pris": "29",
+    "mengde": "stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Cheez Doodles",
+    "pris": "69",
+    "mengde": "450 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sørlandschips Havsalt, Spansk Paprika og Creme Fraiche",
+    "pris": "59",
+    "mengde": "3 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "New Energy og Troika",
+    "pris": "69",
+    "mengde": "1,5 kg",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Lion",
+    "pris": "69",
+    "mengde": "10 pk",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Kinder Maxi",
+    "pris": "18",
+    "mengde": "3 stk",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Twix, Mars og Snickers",
+    "pris": "99",
+    "mengde": "10 pk",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sprite u/sukker, Urge, Fanta Orange Zero, Fanta Lemon og Coca-Cola Sleek m/u sukker",
+    "pris": "20",
+    "mengde": "3 for",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sprite, Fanta, Coca-Cola",
+    "pris": "20",
+    "mengde": "3 for",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Utvalgte Melkesorter Regal",
+    "pris": "50",
+    "mengde": "4 for",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Sukker",
+    "pris": "59",
+    "mengde": "8 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Frukt",
+    "pris": "-30%",
+    "mengde": "2 for 25",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Smågodt",
+    "pris": "9.90",
+    "mengde": "pr. hg",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Rømmegrøt",
+    "pris": "39",
+    "mengde": "1 stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Kylling Nuggets",
+    "pris": "79",
+    "mengde": "800 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Revet Økonomipakke",
+    "pris": "45",
+    "mengde": "370 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Bacon Original",
+    "pris": "30.-",
+    "mengde": "175 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Bunnpris",
+    "produkt": "Grytekjøtt storfe",
+    "pris": "65",
+    "mengde": "per stk",
+    "kategori": "Kjøtt"
+  }
+]

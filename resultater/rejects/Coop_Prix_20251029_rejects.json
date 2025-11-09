@@ -1,0 +1,18 @@
+[
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Nidar Godteri",
+    "pris": "50.-",
+    "mengde": "Pose",
+    "kategori": "Godteri",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Prix",
+    "produkt": "Peanøtt, Daim, Smil, Toppris, Kvikk Lunsj",
+    "pris": "2 for 40.-",
+    "mengde": "Assortert",
+    "kategori": "Tørrvarer",
+    "reject_reason": "weird_quantity"
+  }
+]

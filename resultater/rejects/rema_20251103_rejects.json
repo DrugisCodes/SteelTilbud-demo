@@ -1,0 +1,10 @@
+[
+  {
+    "butikk": "rema",
+    "produkt": "Lambi toalettpapir",
+    "pris": "169.90",
+    "mengde": "pr. sekk",
+    "kategori": "Husholdning",
+    "reject_reason": "weird_quantity"
+  }
+]

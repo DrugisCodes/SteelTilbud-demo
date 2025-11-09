@@ -1,0 +1,114 @@
+[
+  {
+    "butikk": "SPAR",
+    "produkt": "Tomater",
+    "pris": "gartner/season",
+    "mengde": "et stort utvalg",
+    "kategori": "Grønnsaker",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Ferske Fløtepoter",
+    "pris": "30% trumf-bonus",
+    "mengde": "N/A",
+    "kategori": "Annet",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Mors Flatbrød",
+    "pris": "30% trumf-bonus",
+    "mengde": "N/A",
+    "kategori": "Brød",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Kjøttpølse",
+    "pris": "30% trumf-bonus",
+    "mengde": "N/A",
+    "kategori": "Kjøtt",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Oksékarbonader",
+    "pris": "19.90",
+    "mengde": "Fra vårt varmeskap",
+    "kategori": "Kjøtt",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Alle kaker",
+    "pris": "-20%",
+    "mengde": "N/A",
+    "kategori": "Bakervarer",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Ridderheims et stort utvalg",
+    "pris": "3 for 2",
+    "mengde": "N/A",
+    "kategori": "Diverse",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Osram lyspærer et stort utvalg",
+    "pris": "n/a",
+    "mengde": "N/A",
+    "kategori": "Diverse",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "First Price Snacks med baconsmak",
+    "pris": "ukjent",
+    "mengde": "200 g",
+    "kategori": "Kjøtt",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "First Price Pate",
+    "pris": "ukjent",
+    "mengde": "300 g",
+    "kategori": "Dyremat",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "First Price Maiskorn",
+    "pris": "ukjent",
+    "mengde": "285 g",
+    "kategori": "Hermetikk",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "First Price Cola",
+    "pris": "ukjent",
+    "mengde": "1,5 L",
+    "kategori": "Drikke",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "First Price Kjøkkenpapir",
+    "pris": "ukjent",
+    "mengde": "Ukjent",
+    "kategori": "Husholdning",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Rein skank",
+    "pris": "-20%",
+    "mengde": "ikke spesifisert",
+    "kategori": "Kjøtt",
+    "reject_reason": "weird_quantity"
+  }
+]

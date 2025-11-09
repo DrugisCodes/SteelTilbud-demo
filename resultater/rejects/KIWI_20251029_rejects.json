@@ -1,0 +1,58 @@
+[
+  {
+    "butikk": "KIWI",
+    "produkt": "Roser",
+    "pris": "99.90",
+    "mengde": "Bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Calluna",
+    "pris": "24.90",
+    "mengde": "Potte",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Favorittbukett",
+    "pris": "199.00",
+    "mengde": "Pr. bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Mix Salat&Reddik, Mix Salat&Rødbete",
+    "pris": "16.90",
+    "mengde": "Pr. pose",
+    "kategori": "Grønnsaker",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Feldsalat Mix, Babyspinat, Babyleaf Mix, Ruccula",
+    "pris": "16.90",
+    "mengde": "pr. pose",
+    "kategori": "Grønnsaker",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Favorittbukett",
+    "pris": "199.90",
+    "mengde": "Pr. bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "KIWI",
+    "produkt": "Evergood Kaffekapsler",
+    "pris": "49.90",
+    "mengde": "Pr. eske",
+    "kategori": "Drikke",
+    "reject_reason": "weird_quantity"
+  }
+]

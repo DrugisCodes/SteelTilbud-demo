@@ -1,0 +1,26 @@
+[
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark koriander",
+    "pris": "15.00",
+    "mengde": "potte",
+    "kategori": "Frukt/Grønt",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Tine IsKaffe",
+    "pris": "-25%",
+    "mengde": "ukjent",
+    "kategori": "Drikke",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Cashews Dry Roasted",
+    "pris": "29.90",
+    "mengde": "ukjent",
+    "kategori": "Snacks",
+    "reject_reason": "weird_quantity"
+  }
+]

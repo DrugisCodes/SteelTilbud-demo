@@ -1,0 +1,492 @@
+[
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Grandiosa Pizza",
+    "pris": "-50%",
+    "mengde": "Maks 10 stk per husholdning",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Friele Kaffe",
+    "pris": "-30%",
+    "mengde": "Alle varianter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Supper/Sauser/Gryter",
+    "pris": "-30%",
+    "mengde": "Alle varianter",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Gulrøtter",
+    "pris": "19.90",
+    "mengde": "2 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Gilde kjøttkaker",
+    "pris": "80.00",
+    "mengde": "800 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop tyttebærsyltetøy 60%",
+    "pris": "40.00",
+    "mengde": "370 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Mors hjemmebakte flatbrød",
+    "pris": "40.00",
+    "mengde": "520 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Norske poteter",
+    "pris": "19.00",
+    "mengde": "Pr kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Mormors fiskekaker",
+    "pris": "45.00",
+    "mengde": "450 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Norske epler",
+    "pris": "25.00",
+    "mengde": "Pr kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Gilde kjøttpølse",
+    "pris": "35.00",
+    "mengde": "450 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop bacon uten svor",
+    "pris": "20.00",
+    "mengde": "130 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Änglamark krydderurter",
+    "pris": "15.00",
+    "mengde": "11 varianter, 20 g",
+    "kategori": "Krydder"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Rørvik fiskeboller",
+    "pris": "40.00",
+    "mengde": "400 g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Løk strømpe",
+    "pris": "15.00",
+    "mengde": "750 g",
+    "kategori": "Frukt og grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop snackpaprika",
+    "pris": "19.00",
+    "mengde": "1 pose",
+    "kategori": "Frukt og grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop hvitløk",
+    "pris": "10.00",
+    "mengde": "1 stk",
+    "kategori": "Frukt og grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop HverdagsTomat",
+    "pris": "39.90",
+    "mengde": "1 kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Mango Spisemoden",
+    "pris": "24.90",
+    "mengde": "stk",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Søtpoteter",
+    "pris": "18.90",
+    "mengde": "1 kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Sjampinjong",
+    "pris": "5.90",
+    "mengde": "100 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Granateple",
+    "pris": "20.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Blåbær",
+    "pris": "60.90",
+    "mengde": "400 g",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Swizzels Big Party Mix",
+    "pris": "99.90",
+    "mengde": "900 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Kinder Maxi 18 pk",
+    "pris": "69.90",
+    "mengde": "378 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Chews",
+    "pris": "19.90",
+    "mengde": "70g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Maarud Goldfish",
+    "pris": "32.50",
+    "mengde": "75g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Lofotburger 86% Torsk/Sei",
+    "pris": "89.90",
+    "mengde": "800g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Prior Crispy Sticks",
+    "pris": "57.00",
+    "mengde": "300g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Sprø Pommes Frites/Potetstaver",
+    "pris": "75.00",
+    "mengde": "2 poser",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coca-Cola Uten Sukker",
+    "pris": "29.50",
+    "mengde": "1,5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Barer 6 pk",
+    "pris": "16.90",
+    "mengde": "6 pk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Tine Yoghurt Naturell",
+    "pris": "29.30",
+    "mengde": "850 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Softlan",
+    "pris": "29.90",
+    "mengde": "1L",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Matoppbevaring",
+    "pris": "40% rabatt",
+    "mengde": "Utvalget kan variere fra butikk til butikk",
+    "kategori": "Hjem"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Glassflasker og krukker",
+    "pris": "40% rabatt",
+    "mengde": "Utvalget kan variere fra butikk til butikk",
+    "kategori": "Hjem"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Pierre Robert Sokker",
+    "pris": "30% rabatt",
+    "mengde": "",
+    "kategori": "Klær"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Northpeak Ullundertøy Voksen",
+    "pris": "299.00",
+    "mengde": "",
+    "kategori": "Klær"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Northpeak Undertøy til Voksen",
+    "pris": "30% rabatt",
+    "mengde": "",
+    "kategori": "Klær"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Gresskar",
+    "pris": "14.90",
+    "mengde": "Per kg",
+    "kategori": "Annet"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Halloween Utskjæringssett",
+    "pris": "59.00",
+    "mengde": "5 deler",
+    "kategori": "Annet"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Halloween Godteribøtte",
+    "pris": "19.00",
+    "mengde": "1 stk",
+    "kategori": "Annet"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Pizza",
+    "pris": "2 for 60.00",
+    "mengde": "2 stk",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Chips",
+    "pris": "2 for 36.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Vitamin",
+    "pris": "45.00",
+    "mengde": "2 stk",
+    "kategori": "Helse"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Fryseposer",
+    "pris": "25.00",
+    "mengde": "2 stk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Party Mix",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Drops",
+    "pris": "40.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Lerøy Fiskekarbonader",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Hatting Rundstykker",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "YT Protein",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Yum Yum Nudler",
+    "pris": "60.00",
+    "mengde": "2 stk",
+    "kategori": "Matvarer"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "YT Protein Yoghurt",
+    "pris": "45.00",
+    "mengde": "2 stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Gilde Famileskinke",
+    "pris": "40.00",
+    "mengde": "2 stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Earth Control",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Sørlandschips",
+    "pris": "55.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "OLW Cheez Doodles",
+    "pris": "25.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Freda Småster",
+    "pris": "75.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Freda Smil Chewies",
+    "pris": "50.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Tyrkisk Peber",
+    "pris": "35.00",
+    "mengde": "2 stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Labello",
+    "pris": "45.00",
+    "mengde": "2 stk",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Jordan Oppvaskbørste",
+    "pris": "30.00",
+    "mengde": "2 stk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Colgate Tannkrem Max Fresh",
+    "pris": "75.00",
+    "mengde": "2 stk",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Sprudle",
+    "pris": "25.00",
+    "mengde": "3 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Hverdagstomat",
+    "pris": "39",
+    "mengde": "400 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Mango Spisemoden",
+    "pris": "24",
+    "mengde": "Pr. stk",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Søtpoteter",
+    "pris": "18",
+    "mengde": "Pr. kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Sjampinjong",
+    "pris": "5",
+    "mengde": "Pr. kg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Granateple",
+    "pris": "20",
+    "mengde": "Pr. stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Coop Blåbær",
+    "pris": "60",
+    "mengde": "400 g",
+    "kategori": "Frukt"
+  }
+]

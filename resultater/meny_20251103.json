@@ -1,0 +1,226 @@
+[
+  {
+    "butikk": "meny",
+    "produkt": "Norvegia Original",
+    "pris": "99.00",
+    "mengde": "kg",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "RA Kjøttboller",
+    "pris": "49.90",
+    "mengde": "pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Cevita Blåbær",
+    "pris": "59.90",
+    "mengde": "pk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Ørretfilet med skinn",
+    "pris": "99.00",
+    "mengde": "pk",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Pizza Grandiosa",
+    "pris": "59.90",
+    "mengde": "stk",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Pepsi Max",
+    "pris": "119.00",
+    "mengde": "8 x 1,5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Marsipankake",
+    "pris": "64.90",
+    "mengde": "2pk",
+    "kategori": "Kaker"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Smågodt",
+    "pris": "12.90",
+    "mengde": "hg",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Giffler",
+    "pris": "24.90",
+    "mengde": "260g",
+    "kategori": "Bakverk"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Nidars Favoritter",
+    "pris": "39.90",
+    "mengde": "pk",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Ben & Jerry's Iskrem",
+    "pris": "79.90",
+    "mengde": "stk",
+    "kategori": "Iskrem"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Minde Sjokolade",
+    "pris": "39.90",
+    "mengde": "pk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Tulip Bacon",
+    "pris": "24.90",
+    "mengde": "stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Egg Frittgående",
+    "pris": "49.90",
+    "mengde": "18 stk",
+    "kategori": "Egg"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Nypresset Appelsinjuice",
+    "pris": "89.00",
+    "mengde": "1.75L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Persimon",
+    "pris": "9.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Cevita druer",
+    "pris": "29.90",
+    "mengde": "pk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Brokkoli",
+    "pris": "14.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Paprikamiks",
+    "pris": "24.90",
+    "mengde": "pk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Salatbar plukk & miks",
+    "pris": "19.90",
+    "mengde": "hg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Pepsi Max",
+    "pris": "109.90",
+    "mengde": "pk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Kronis/Sandwich",
+    "pris": "49.90",
+    "mengde": "pk",
+    "kategori": "Iskrem"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Proteinbar",
+    "pris": "29.90",
+    "mengde": "stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Fersk oliven",
+    "pris": "49.90",
+    "mengde": "pk",
+    "kategori": "Delikatesse"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Karbonader",
+    "pris": "20.00",
+    "mengde": "stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Dolmio",
+    "pris": "34.90",
+    "mengde": "gl",
+    "kategori": "Sauser"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Frokostblanding",
+    "pris": "39.90",
+    "mengde": "pk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Sunniva juice",
+    "pris": "34.90",
+    "mengde": "flaske",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Nystekt Sofies grovbrød",
+    "pris": "35.00",
+    "mengde": "stk",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Tynnskåret spekeskinke",
+    "pris": "34.90",
+    "mengde": "pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Plukk & miks",
+    "pris": "3 for 2",
+    "mengde": "pk",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "meny",
+    "produkt": "Skyr porsjonsyogurt",
+    "pris": "3 for 2",
+    "mengde": "stk",
+    "kategori": "Meieri"
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "butikk": "rema",
+    "produkt": "Godehav Laksefilet",
+    "pris": "79.90",
+    "mengde": "400g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grandiosa Full Pakke",
+    "pris": "39.90",
+    "mengde": "585g",
+    "kategori": "Frossenmat"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Godt Hav Laks",
+    "pris": "79.90",
+    "mengde": "",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Middagsris",
+    "pris": "39.90",
+    "mengde": "1kg",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Gulrot",
+    "pris": "24.90",
+    "mengde": "1kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Bambusskudd",
+    "pris": "24.90",
+    "mengde": "425g",
+    "kategori": "Hermetikk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Woksaus Sweet Chili",
+    "pris": "16.70",
+    "mengde": "250ml",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Potetstappe",
+    "pris": "44.90",
+    "mengde": "4 porsjoner",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Brokkoli",
+    "pris": "39.90",
+    "mengde": "500g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grønn Pesto",
+    "pris": "20.50",
+    "mengde": "185g",
+    "kategori": "Sauser"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Sitron",
+    "pris": "11.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tagliatelle",
+    "pris": "25.00",
+    "mengde": "500g",
+    "kategori": "Pasta"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Matfløte",
+    "pris": "23.90",
+    "mengde": "3dl",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Babyspinat",
+    "pris": "24.90",
+    "mengde": "65g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Rosenkål",
+    "pris": "49.90",
+    "mengde": "500g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Sandefjordsmør",
+    "pris": "24.90",
+    "mengde": "250g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Lårfilet av kylling",
+    "pris": "79.90",
+    "mengde": "700g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Kylling lårfilet",
+    "pris": "99.00",
+    "mengde": "1kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Kylling kjøttboller",
+    "pris": "2 for 99.00",
+    "mengde": "300g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Godehav Laksefilet",
+    "pris": "29.90",
+    "mengde": "250g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Godehav Fiskekaker",
+    "pris": "29.90",
+    "mengde": "300g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Godehav Gratinert Fisk",
+    "pris": "49.90",
+    "mengde": "400g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Laks Loin Uten Skinn",
+    "pris": "79.00",
+    "mengde": "500g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Big Beef Burger",
+    "pris": "54.90",
+    "mengde": "2x150g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Kjøtt- og Grønnsakspølse",
+    "pris": "39.90",
+    "mengde": "500g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grovt hverdagsbrød",
+    "pris": "19.90",
+    "mengde": "",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Falu rågrill",
+    "pris": "24.90",
+    "mengde": "600g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grilstad Jubelsalami",
+    "pris": "49.90",
+    "mengde": "130g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Synnøve Gulost",
+    "pris": "29.90",
+    "mengde": "500g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Ternet bacon",
+    "pris": "39.90",
+    "mengde": "2x150g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "RÅ Appelsinjuice",
+    "pris": "49.90",
+    "mengde": "1L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Norgesmøllene Siktet Hvetemel",
+    "pris": "19.90",
+    "mengde": "2kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Dansukker Sukker",
+    "pris": "34.90",
+    "mengde": "1kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Marsipan-/Sjokoladekake",
+    "pris": "169.00",
+    "mengde": "stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Marsipankake",
+    "pris": "169.00",
+    "mengde": "",
+    "kategori": "Kake"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Kvikk Lunsj Biter",
+    "pris": "49.90",
+    "mengde": "",
+    "kategori": "Sjokolade"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Freia Melkehjerter",
+    "pris": "64.90",
+    "mengde": "",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Lambi Toalettpapir",
+    "pris": "169.90",
+    "mengde": "40 ruller",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Snackspaprika",
+    "pris": "19.90",
+    "mengde": "200g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Pærer",
+    "pris": "19.90",
+    "mengde": "kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tynnribbe",
+    "pris": "129.90",
+    "mengde": "per kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Urøkt pinnekjøtt",
+    "pris": "289.90",
+    "mengde": "per kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Pepperkaker",
+    "pris": "24.90",
+    "mengde": "900g",
+    "kategori": "Bakst"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Marsipanbrød",
+    "pris": "44.90",
+    "mengde": "5x65g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Julebrus",
+    "pris": "59.90",
+    "mengde": "6x1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Marsipanbrød",
+    "pris": "24.90",
+    "mengde": "65g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Julegløgg",
+    "pris": "24.90",
+    "mengde": "0.75L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Skumnisser",
+    "pris": "24.90",
+    "mengde": "300g",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grans Julebrus u/sukker",
+    "pris": "18.90",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Julebrunost",
+    "pris": "64.90",
+    "mengde": "500g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Julebrunost skivet",
+    "pris": "26.90",
+    "mengde": "130g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Plukk og miks",
+    "pris": "3 for 2",
+    "mengde": "",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "KiMs Chips",
+    "pris": "24.90",
+    "mengde": "stk",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Mjølkeruta",
+    "pris": "39.90",
+    "mengde": "stk",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Seigmenn",
+    "pris": "14.90",
+    "mengde": "170g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Powerade Mountain Blast",
+    "pris": "28.90",
+    "mengde": "4x500ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Diplom-Is",
+    "pris": "49.90",
+    "mengde": "1L",
+    "kategori": "Iskrem"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Coca-Cola Zero Sugar 10x330ml",
+    "pris": "87.00",
+    "mengde": "10x330ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Fanta Zero Sugar 10x330ml",
+    "pris": "79.00",
+    "mengde": "10x330ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Helleborus",
+    "pris": "79.90",
+    "mengde": "1 stk",
+    "kategori": "Planter"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tulipaner 7 pk",
+    "pris": "69.90",
+    "mengde": "1 pk",
+    "kategori": "Planter"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Alle stearinlys",
+    "pris": "3 for 2",
+    "mengde": "",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Alle strømpebukser",
+    "pris": "3 for 2",
+    "mengde": "",
+    "kategori": "Klær"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tøyvask Color",
+    "pris": "36.90",
+    "mengde": "1L",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tøyvask Ull & Silke",
+    "pris": "36.90",
+    "mengde": "1L",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Tøyvask Sensitive",
+    "pris": "36.90",
+    "mengde": "1L",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Apobase Oily Cream",
+    "pris": "69.90",
+    "mengde": "200ml",
+    "kategori": "Hudpleie"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Salvequick Aloe Vera",
+    "pris": "76.90",
+    "mengde": "40stk",
+    "kategori": "Plaster"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Kjærlighet på pinne",
+    "pris": "1.00",
+    "mengde": "pr. stk",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Crunchy Granola",
+    "pris": "29.80",
+    "mengde": "",
+    "kategori": "Frokostblanding"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Urkraft Havregryn",
+    "pris": "17.50",
+    "mengde": "",
+    "kategori": "Frokost"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Axa & Honning",
+    "pris": "49.90",
+    "mengde": "",
+    "kategori": "Frokostblanding"
+  },
+  {
+    "butikk": "rema",
+    "produkt": "Grans Brus",
+    "pris": "4 for 59.00",
+    "mengde": "1.5L",
+    "kategori": "Drikkevarer"
+  }
+]

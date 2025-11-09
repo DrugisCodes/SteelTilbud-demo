@@ -1,0 +1,366 @@
+[
+  {
+    "butikk": "kiwi",
+    "produkt": "Grønn og Rød Spisskål",
+    "pris": "19.90",
+    "mengde": "stk",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Norske Småpoteter",
+    "pris": "19.90",
+    "mengde": "600g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Gulrot",
+    "pris": "24.90",
+    "mengde": "750g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Grønn og rød spisskål",
+    "pris": "45",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Gulrot",
+    "pris": "33.20",
+    "mengde": "kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Rødbeter",
+    "pris": "24.90",
+    "mengde": "500g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Betemiks",
+    "pris": "24.90",
+    "mengde": "550g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Rotmiks",
+    "pris": "27.90",
+    "mengde": "1kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Løk",
+    "pris": "12.90",
+    "mengde": "2-pk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Kinakål",
+    "pris": "19.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Norsk Rød Spisskål",
+    "pris": "19.90",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Rød og grønn spisskål",
+    "pris": "45",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Delikat Gulrot",
+    "pris": "14.90",
+    "mengde": "400g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Purre",
+    "pris": "39.90",
+    "mengde": "kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Purre",
+    "pris": "9.90",
+    "mengde": "kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Kålrot",
+    "pris": "9.90",
+    "mengde": "kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Mix Salat&Reddik, Mix Salat&Rødbete",
+    "pris": "16.90",
+    "mengde": "90g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Feldsalat Mix",
+    "pris": "16.90",
+    "mengde": "90g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Babyspinat",
+    "pris": "16.90",
+    "mengde": "90g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Babyleaf Mix",
+    "pris": "16.90",
+    "mengde": "90g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Ruccula",
+    "pris": "16.90",
+    "mengde": "90g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Feldsalat Mix, Babyspinat, Babyleaf Mix, Ruccula",
+    "pris": "16.90",
+    "mengde": "65g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Roser",
+    "pris": "99.00",
+    "mengde": "10 stk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Toro Snarkokt Risgrøt",
+    "pris": "19.90",
+    "mengde": "",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Toro Original Risgrøt",
+    "pris": "24.90",
+    "mengde": "",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Original Risgrøt",
+    "pris": "45",
+    "mengde": "285g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Pariseragurker",
+    "pris": "24.90",
+    "mengde": "580g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Hakkede tomater og pizzasaus",
+    "pris": "16.90",
+    "mengde": "400g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Idun Grov Sennep",
+    "pris": "18.90",
+    "mengde": "275g",
+    "kategori": "Dagligvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Idun Sterk Sennep",
+    "pris": "24.90",
+    "mengde": "250g",
+    "kategori": "Dagligvarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Evergood Kaffekapsler",
+    "pris": "34.90",
+    "mengde": "10 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Evergood Kaffekapsler",
+    "pris": "49.90",
+    "mengde": "16 stk",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Fiskekaker Hjerteformet",
+    "pris": "59.90",
+    "mengde": "960g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Pizzabunn Surdeig",
+    "pris": "59.90",
+    "mengde": "2-pk. 500g",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Mors Grovbrød",
+    "pris": "19.90",
+    "mengde": "450-500g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Seterbrød",
+    "pris": "19.90",
+    "mengde": "450-500g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Gårdsbrød",
+    "pris": "19.90",
+    "mengde": "450-500g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Sørlandsis",
+    "pris": "54.90",
+    "mengde": "1 liter",
+    "kategori": "Iskrem"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Fløteis beger",
+    "pris": "69.90",
+    "mengde": "450 ml",
+    "kategori": "Iskrem"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Pepperkaker",
+    "pris": "24.90",
+    "mengde": "300g",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Bacon i bit",
+    "pris": "199.00",
+    "mengde": "Pr. kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Gilde Skinnfri Kjøttpølse",
+    "pris": "67.90",
+    "mengde": "900g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Mills Majones",
+    "pris": "39.90",
+    "mengde": "3-pk",
+    "kategori": "Pålegg"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Julebrus sukkerfri",
+    "pris": "15.90",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Julebrus",
+    "pris": "15.90",
+    "mengde": "1,5 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Julebrus",
+    "pris": "38.90",
+    "mengde": "6 x 0,33 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Julebrus",
+    "pris": "45",
+    "mengde": "6 x 0,33 liter",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Håndsåpe",
+    "pris": "16.90",
+    "mengde": "500 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Lambi Toalettpapir",
+    "pris": "69.90",
+    "mengde": "16-pk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Gilde Pinnekjøtt",
+    "pris": "299.00",
+    "mengde": "1kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Pinnesteik av lam urøkt",
+    "pris": "379.00",
+    "mengde": "1.8 kg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "kiwi",
+    "produkt": "Pinnekjøtt urøkt",
+    "pris": "379.00",
+    "mengde": "1.8 kg",
+    "kategori": "Kjøtt"
+  }
+]

@@ -1,0 +1,24 @@
+fikse kanskje kategorier på nettside for hygiene og andre slike ting
+
+lage en annet kategori slik at alle andre kategorier går under den
+
+fikse 3 for 2 tilbud
+
+sjekke at alle kategoriene er like som i databasen
+
+forbedringer til senere:
+    fikse kundeavis fra hver enkelt butikk  4/10
+
+    gjør slike at jeg får posisjonen til brukeren også skrive inn den istedet så dem får tilbud lokalt til seg 7/10
+
+    få inn bilder til tilbudene.  5/10
+
+    koble dette til n8n/agentkit for automatisk? 6/10
+
+    skaffe log inn, og varslinger om tilbud fra det brukeren har lagret 9/10
+
+
+playwright henting av kundeavis:
+kiwi kan forbedres med zoom
+
+    

@@ -1,0 +1,74 @@
+[
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Alle Friele Kaffe",
+    "pris": "-30%",
+    "mengde": "diverse",
+    "kategori": "Drikke",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Kjøttkakesaus",
+    "pris": "-30%",
+    "mengde": "diverse",
+    "kategori": "Kjøtt",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Fri Hvit Saus",
+    "pris": "-30%",
+    "mengde": "diverse",
+    "kategori": "Tørrvarer",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Bearnaisesaus",
+    "pris": "-30%",
+    "mengde": "diverse",
+    "kategori": "Tørrvarer",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Supper/Sauser/Gryter",
+    "pris": "ikke oppgitt",
+    "mengde": "Flere varianter",
+    "kategori": "Tørrvarer",
+    "reject_reason": "nonsense_price_text"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Colgate produkter",
+    "pris": "20% rabatt",
+    "mengde": "Uspesifisert",
+    "kategori": "Hygiene",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Grandiosa",
+    "pris": "-50%",
+    "mengde": "ikke-medium",
+    "kategori": "Frossenmat",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Friele Kaffe",
+    "pris": "-30%",
+    "mengde": "N/A",
+    "kategori": "Drikke",
+    "reject_reason": "weird_quantity"
+  },
+  {
+    "butikk": "Coop_Extra",
+    "produkt": "Toro Supper/Sauser/Gryter",
+    "pris": "-30%",
+    "mengde": "N/A",
+    "kategori": "Tørrvarer",
+    "reject_reason": "weird_quantity"
+  }
+]

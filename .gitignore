@@ -1,0 +1,43 @@
+# Ignorer frontend-bygget og moduler fra rot
+steeltilbud-frontend/node_modules/
+steeltilbud-frontend/dist/
+steeltilbud-frontend/.env
+
+# Ignorer backend-byggefiler (Spring Boot)
+target/
+*.class
+*.log
+*.iml
+
+# Generelt
+node_modules/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Python cache og midlertidige filer (hvis du bruker OCR-skript)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logg- og feilsøkingsfiler
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Byggefiler for backend/Render
+dist/
+build/
+.env.*
+backend.env
+auth.env
+server.env
+
+# Lokale databaser og midlertidige data
+*.sqlite
+*.db
+*.bak
+

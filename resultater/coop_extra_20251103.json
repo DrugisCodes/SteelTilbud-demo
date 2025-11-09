@@ -1,0 +1,513 @@
+[
+  {
+    "butikk": "coop_extra",
+    "produkt": "Pepsi Max",
+    "pris": "14.60",
+    "mengde": "0,5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coca-Cola",
+    "pris": "13.60",
+    "mengde": "0,5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Synnøve Gouda",
+    "pris": "99",
+    "mengde": "Pr kg",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop kjøttdeig kylling",
+    "pris": "50.00",
+    "mengde": "Pr pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop strimlet kjøtt",
+    "pris": "60.00",
+    "mengde": "Pr pk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Tine cottage cheese mager",
+    "pris": "35.00",
+    "mengde": "420 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop tortilla cheese chips",
+    "pris": "10.00",
+    "mengde": "150 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop hvitløk",
+    "pris": "10.00",
+    "mengde": "100 g",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Søtpoteter",
+    "pris": "18.00",
+    "mengde": "per kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop cheddar revet mix",
+    "pris": "25.00",
+    "mengde": "150g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Mills ekte majones",
+    "pris": "30.00",
+    "mengde": "165g",
+    "kategori": "Dagligvarer"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop torskefilet",
+    "pris": "100.00",
+    "mengde": "400g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Tine meierismør",
+    "pris": "30.00",
+    "mengde": "250g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Earth Control",
+    "pris": "2 for 55.00",
+    "mengde": "110g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop sprøbakt torskefilet",
+    "pris": "40.00",
+    "mengde": "180g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark dill",
+    "pris": "15.00",
+    "mengde": "8g",
+    "kategori": "Krydder"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop snackpaprika",
+    "pris": "19.00",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop hverdagstomat",
+    "pris": "39.00",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Mango spisemoden",
+    "pris": "24.00",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Sjampinjong",
+    "pris": "5.00",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Granateple",
+    "pris": "20.00",
+    "mengde": "stk",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop blåbær",
+    "pris": "60.00",
+    "mengde": "400g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Nidar Smash",
+    "pris": "20",
+    "mengde": "100g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Farris, Bris og Frus",
+    "pris": "19.90",
+    "mengde": "1.5L",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Sørlandschips Verdens Tynneste",
+    "pris": "35.60",
+    "mengde": "200g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Gilde Kjøttboller Italiensk",
+    "pris": "79.50",
+    "mengde": "400g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Gilde Kjøttboller Picante",
+    "pris": "82.40",
+    "mengde": "400g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Tulip Pulled Pork",
+    "pris": "103.00",
+    "mengde": "500g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coca-Cola Uten Sukker",
+    "pris": "29.50",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Stekepanne Tefal Change",
+    "pris": "349.00",
+    "mengde": "28 cm",
+    "kategori": "Kjøkkenutstyr"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Brettspill Norges Dømeste",
+    "pris": "399.00",
+    "mengde": "1 stk",
+    "kategori": "Spill"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Premier League Julekalender 2025",
+    "pris": "399.00",
+    "mengde": "1 stk",
+    "kategori": "Kalender"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Lucinda Riley Kjærlighetssangen",
+    "pris": "449.00",
+    "mengde": "1 stk",
+    "kategori": "Bøker"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Pierre Robert Boxere",
+    "pris": "229.00",
+    "mengde": "3 pk",
+    "kategori": "Klær"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Palmolive Dusjsåpe",
+    "pris": "25.50",
+    "mengde": "250 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Palmolive Roll-On",
+    "pris": "24.90",
+    "mengde": "50 ml",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Men Expert Hydra Energetic",
+    "pris": "102.00",
+    "mengde": "50 ml",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Men Expert Roll-On Carbon",
+    "pris": "40.20",
+    "mengde": "50 ml",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Kyllingpålegg",
+    "pris": "2 for 55.00",
+    "mengde": "110 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark Økologisk Skummet Lettmelk",
+    "pris": "2 for 38.00",
+    "mengde": "1 L",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Morgenstykker",
+    "pris": "2 for 60.00",
+    "mengde": "6 stk",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Proteinbar",
+    "pris": "2 for 32.00",
+    "mengde": "60 g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Hakkede Tomater",
+    "pris": "2 for 20.00",
+    "mengde": "390 g",
+    "kategori": "Hermetikk"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Toalettpapir 6 pk/Tørkerull 4 pk",
+    "pris": "2 for 70.00",
+    "mengde": "6 pk/4 pk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Lerøy Godt Kjøp Fiskergraten",
+    "pris": "2 for 55",
+    "mengde": "500g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Hatting Rundstykker",
+    "pris": "2 for 55",
+    "mengde": "720g",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Yum Yum Nudler",
+    "pris": "2 for 60",
+    "mengde": "18x60g",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "YT Protein Yoghurt Drikk",
+    "pris": "2 for 45",
+    "mengde": "330ml",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Gilde Familieskinke",
+    "pris": "2 for 40",
+    "mengde": "110g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Earth Control",
+    "pris": "2 for 55",
+    "mengde": "150g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Sørlandschips Rifla",
+    "pris": "2 for 55",
+    "mengde": "200g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "OLW Cheez Doodles",
+    "pris": "2 for 25",
+    "mengde": "125g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Freia Småbiter",
+    "pris": "2 for 75",
+    "mengde": "300g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Freia Smil Chewies",
+    "pris": "2 for 50",
+    "mengde": "170g",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Tyrkisk Peber",
+    "pris": "2 for 35",
+    "mengde": "150g",
+    "kategori": "Søtsaker"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Jordan Oppvaskbørste",
+    "pris": "2 for 30",
+    "mengde": "stk",
+    "kategori": "Husholdning"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Labello",
+    "pris": "2 for 45",
+    "mengde": "stk",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Colgate Tannkrem Max Fresh",
+    "pris": "2 for 75",
+    "mengde": "125ml",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Sprudle",
+    "pris": "3 for 25",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Brus",
+    "pris": "2 for 29.50",
+    "mengde": "1.5L",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Roser",
+    "pris": "84.90",
+    "mengde": "14 stk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Ukens Bukett",
+    "pris": "149.00",
+    "mengde": "1 bukett",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Always Truseinnlegg Long Plus",
+    "pris": "15.70",
+    "mengde": "",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Always Truseinnlegg Large",
+    "pris": "13.20",
+    "mengde": "",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Always Bind Ultra Secure Night",
+    "pris": "20.70",
+    "mengde": "",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Always Truseinnlegg Normal",
+    "pris": "24.45",
+    "mengde": "",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark Balsam Barn",
+    "pris": "23.00",
+    "mengde": "250 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark Baby Såpe Alt i Ett",
+    "pris": "40.90",
+    "mengde": "250 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark Sjampo Barn",
+    "pris": "41.10",
+    "mengde": "250 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Änglamark Babyolje",
+    "pris": "45.90",
+    "mengde": "250 ml",
+    "kategori": "Hygiene"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Regal Siktet Hvetemel",
+    "pris": "19.90",
+    "mengde": "2 kg",
+    "kategori": "Baking"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Skolebrød/Solbolle",
+    "pris": "15.00",
+    "mengde": "100/110 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "coop_extra",
+    "produkt": "Coop Brød Skåret",
+    "pris": "29.90",
+    "mengde": "650-750 g",
+    "kategori": "Brød"
+  }
+]

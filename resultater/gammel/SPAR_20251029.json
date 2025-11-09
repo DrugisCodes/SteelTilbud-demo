@@ -1,0 +1,331 @@
+[
+  {
+    "butikk": "SPAR",
+    "produkt": "Evergood",
+    "pris": "2/20",
+    "mengde": "250 g",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Smågodt",
+    "pris": "11.90",
+    "mengde": "pr. hg",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Taco",
+    "pris": "21.90-46.90",
+    "mengde": "et stort utvalg",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Melange",
+    "pris": "30% rabatt",
+    "mengde": "original, flytende 500 ml eller 500 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Rein skank",
+    "pris": "-30%",
+    "mengde": "1 stk",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Diverse produkter",
+    "pris": "24.90–389.00",
+    "mengde": "1 stk",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Kjære bønder, takk for maten!",
+    "pris": "39.90",
+    "mengde": "1 stk",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Norske epler 6-pk",
+    "pris": "36.90",
+    "mengde": "ca. 1 kg",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Norske poteter",
+    "pris": "29.90",
+    "mengde": "400–1500 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Druer",
+    "pris": "34.90",
+    "mengde": "500 g",
+    "kategori": "Frukt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Blåbær",
+    "pris": "59.90",
+    "mengde": "400 g",
+    "kategori": "Frukt og Grønt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Sunn Snækk",
+    "pris": "59.90",
+    "mengde": "et utvalg",
+    "kategori": "Frukt og Grønt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Godt til middag",
+    "pris": "30% trumf-bonus",
+    "mengde": "for alle Trumf-medlemmer",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Fiskeburger 4-pk.",
+    "pris": "69.90",
+    "mengde": "4x110g",
+    "kategori": "Fisk"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Kyllingfilet",
+    "pris": "79.90",
+    "mengde": "400g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Grytekjøtt",
+    "pris": "59.90",
+    "mengde": "400g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Grytekjøtt",
+    "pris": "79.90",
+    "mengde": "300 g",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Revet Synnøve",
+    "pris": "44.90",
+    "mengde": "370 g",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Bertagni pasta",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Tørrvarer"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Kornbrød",
+    "pris": "29.90",
+    "mengde": "750 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Fransk Landbrød",
+    "pris": "29.90",
+    "mengde": "550 g",
+    "kategori": "Brød"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Julebakst",
+    "pris": "30.00",
+    "mengde": "4 for",
+    "kategori": "Bakervarer"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Alpro",
+    "pris": "-30%",
+    "mengde": "et stort utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Julekake",
+    "pris": "39.90",
+    "mengde": "600 g",
+    "kategori": "Bakverk"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Yoghurt",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Twinings/Lipton",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Godteri",
+    "pris": "30% rabatt",
+    "mengde": "et utvalg",
+    "kategori": "Godteri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Potetgull",
+    "pris": "34.90",
+    "mengde": "200 g",
+    "kategori": "Frukt/Grønt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Battery",
+    "pris": "14.90",
+    "mengde": "0,5 l + pant",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Möller's/Sana-sol/Vitaminbjørner",
+    "pris": "-30%",
+    "mengde": "et utvalg",
+    "kategori": "Helse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Isklar",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Dyresnacks",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "TINE smaksrike oster",
+    "pris": "3 for 2",
+    "mengde": "et utvalg, i bit",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Finsbråten pålegg",
+    "pris": "3 for 2",
+    "mengde": "et utvalg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Dr. Greve",
+    "pris": "3 for 2",
+    "mengde": "hele utvalget",
+    "kategori": "Personlig pleie"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Nøtter fra Den Lille Nøttefabrikken",
+    "pris": "3 for 2",
+    "mengde": "et stort utvalg",
+    "kategori": "Snacks"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Tulipaner",
+    "pris": "79.90",
+    "mengde": "7-pk",
+    "kategori": "Blomster"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Novemberkaktus",
+    "pris": "69.90",
+    "mengde": "pr. stk.",
+    "kategori": "Planter"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Melange",
+    "pris": "-30%",
+    "mengde": "",
+    "kategori": "Matolje"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Evergood",
+    "pris": "40% rabatt",
+    "mengde": "et stort utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Tomater",
+    "pris": "30% rabatt",
+    "mengde": "et stort utvalg",
+    "kategori": "Grønnsaker"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Taco",
+    "pris": "-40%",
+    "mengde": "et stort utvalg",
+    "kategori": "Diverse"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Dybvik Bacalao",
+    "pris": "24.90-389.00",
+    "mengde": "et stort utvalg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Fripa IPA",
+    "pris": "24.90-389.00",
+    "mengde": "et stort utvalg",
+    "kategori": "Drikke"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Valdresost",
+    "pris": "24.90-389.00",
+    "mengde": "et stort utvalg",
+    "kategori": "Meieri"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Sursild",
+    "pris": "24.90-389.00",
+    "mengde": "et stort utvalg",
+    "kategori": "Kjøtt"
+  },
+  {
+    "butikk": "SPAR",
+    "produkt": "Frosta Chips",
+    "pris": "24.90-389.00",
+    "mengde": "et stort utvalg",
+    "kategori": "Meieri"
+  }
+]

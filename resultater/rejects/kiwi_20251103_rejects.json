@@ -1,0 +1,10 @@
+[
+  {
+    "butikk": "kiwi",
+    "produkt": "Favorittbukett",
+    "pris": "199.00",
+    "mengde": "Pr. bukett",
+    "kategori": "Blomster",
+    "reject_reason": "weird_quantity"
+  }
+]
